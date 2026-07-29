@@ -176,38 +176,20 @@ http://localhost:8080/api
 ---
 
 # 📸 Backend Screenshots
-### Home Page
 
+## API Testing & Database
 
-### User Registration API
+| DataBase Tables | Users |
+|--------------|--------------|
+| <img src="screenshots/Screenshot%202026-07-29%20143058.png" width="450"/> | <img src="screenshots/Screenshot%202026-07-29%20143202.png" width="450"/> |
 
-screenshots/Screenshot 2026-07-29 104945.png
+|Products | Cart |
+|--------------|--------------|
+| <img src="screenshots/Screenshot%202026-07-29%20143306.png" width="450"/> | <img src="screenshots/Screenshot%202026-07-29%20143357.png" width="450"/> |
 
----
-
-### Login API
-
-![Login API]()
-
----
-
-### Product APIs
-
-![Products API](screenshots/products-api.png)
-
----
-
-### Category APIs
-
-![Category API](screenshots/categories-api.png)
-
----
-
-### Database Tables
-
-![Database](screenshots/database.png)
-
----
+| Payment | |
+|--------------|--|
+| <img src="screenshots/Screenshot%202026-07-29%20143456.png" width="450"/> | |
 
 # 🚀 Future Enhancements
 
