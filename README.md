@@ -176,16 +176,18 @@ http://localhost:8080/api
 ---
 
 # 📸 Backend Screenshots
+### Home Page
+
 
 ### User Registration API
 
-![Register API](screenshots/register-api.png)
+screenshots/Screenshot 2026-07-29 104945.png
 
 ---
 
 ### Login API
 
-![Login API](screenshots/login-api.png)
+![Login API]()
 
 ---
 
